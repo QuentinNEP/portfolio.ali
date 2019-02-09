@@ -160,13 +160,13 @@ sup {
 }
 
 a {
-  color: #f4623a;
+  color: #C62828;
   text-decoration: none;
   background-color: transparent;
 }
 
 a:hover {
-  color: #d6370c;
+  color: #6D4C41;
   text-decoration: underline;
 }
 
@@ -2608,13 +2608,13 @@ fieldset:disabled a.btn {
 
 .btn-primary {
   color: #fff;
-  background-color: #f4623a;
+  background-color: #C62828;
   border-color: #f4623a;
 }
 
 .btn-primary:hover {
   color: #fff;
-  background-color: #f24516;
+  background-color: #6D4C41;
   border-color: #ee3e0d;
 }
 
@@ -6756,7 +6756,7 @@ a.close.disabled {
 }
 
 .bg-primary {
-  background-color: #f4623a !important;
+  background-color: #6D4C41 !important;
 }
 
 a.bg-primary:hover, a.bg-primary:focus,
@@ -10102,6 +10102,7 @@ button.bg-dark:focus {
 
 .text-center {
   text-align: center !important;
+  color: #C62828;
 }
 
 @media (min-width: 576px) {
@@ -10189,11 +10190,11 @@ button.bg-dark:focus {
 }
 
 .text-white {
-  color: #fff !important;
+  color: #FDEBD0 !important;
 }
 
 .text-primary {
-  color: #f4623a !important;
+  color: #6D4C41 !important;
 }
 
 a.text-primary:hover, a.text-primary:focus {
@@ -10269,7 +10270,7 @@ a.text-dark:hover, a.text-dark:focus {
 }
 
 .text-white-50 {
-  color: rgba(255, 255, 255, 0.5) !important;
+  color: rgba(109, 76, 65, 0.5) !important;
 }
 
 .text-hide {
@@ -10389,11 +10390,11 @@ html {
 hr.divider {
   max-width: 3.25rem;
   border-width: 0.2rem;
-  border-color: #f4623a;
+  border-color: #C62828;
 }
 
 hr.light {
-  border-color: #fff;
+  border-color: #FDEBD0;
 }
 
 .btn {
@@ -10440,7 +10441,7 @@ hr.light {
 }
 
 #mainNav .navbar-nav .nav-item .nav-link.active {
-  color: #f4623a !important;
+  color: #C62828 !important;
 }
 
 @media (min-width: 992px) {
@@ -10474,7 +10475,7 @@ hr.light {
     color: #212529;
   }
   #mainNav.navbar-scrolled .navbar-brand:hover {
-    color: #f4623a;
+    color: #C62828;
   }
   #mainNav.navbar-scrolled .navbar-nav .nav-item .nav-link {
     color: #212529;
@@ -10549,8 +10550,8 @@ header.masthead h1 {
   bottom: 0;
   text-align: center;
   opacity: 0;
-  color: #fff;
-  background: rgba(244, 98, 58, 0.9);
+  color: #6D4C41;
+  background: rgba(253, 235, 208, 0.9);
   -webkit-transition: opacity 0.25s ease;
   transition: opacity 0.25s ease;
   text-align: center;
